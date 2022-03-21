@@ -1,0 +1,3 @@
+- 👋 Hi, I’m DjBebsi
+- 👀 I’m interested in making bots/automation/ch33ts for certain school websites 
+- 🌱 I’m currently learning Py and a bit of JS
